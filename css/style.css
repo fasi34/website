@@ -1,0 +1,1200 @@
+                    * {
+                        padding: 0;
+                        margin: 0;
+                    }
+                    
+                    .navbar-brand {
+                        font-family: "Ubuntu", sans-serif;
+                        font-size: 30px;
+                        margin-left: 50px;
+                        color: #bbbbbb;
+                    }
+                    
+                    .bar:hover {
+                        color: #fff;
+                        font-size: 20px;
+                    }
+                    
+                    .start {
+                        text-align: start;
+                    }
+                    
+                    .start h3 {
+                        margin-top: 20px;
+                        font-size: 25px;
+                        font-weight: 700;
+                        margin-bottom: 20px;
+                        margin-left: 111px;
+                    }
+                    
+                    .start h4 {
+                        font-size: 18px;
+                        margin-top: 50px;
+                        margin-left: 176px;
+                    }
+                    
+                    .bar {
+                        color: #000;
+                        font-size: 20px;
+                    }
+                    
+                    .top_button:hover .bar {
+                        color: #fff;
+                    }
+                    
+                    .top_button:focus .bar {
+                        color: #fff;
+                    }
+                    
+                    .top_button:hover,
+                    .top_button:focus {
+                        background-color: #000 !important;
+                        border: 1px solid transparent !important;
+                    }
+                    
+                    .top_button {
+                        background-color: #fff;
+                        border: 1px solid transparent;
+                        margin-right: 40px;
+                    }
+                    
+                    .nav-item {
+                        padding: 10px 20px;
+                    }
+                    
+                    .nav-item:hover {
+                        background-color: #DCCEC5;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .section_one {
+                        position: relative;
+                        width: 100%;
+                        height: 140vh;
+                        border: 1px solid transparent;
+                    }
+                    
+                    .main_hero_section {
+                        position: absolute;
+                        top: 70%;
+                        left: 7%;
+                        translate: 0% -50%;
+                        border: 1px solid transparent;
+                        height: 50%;
+                        width: 50%;
+                        background-color: #fff;
+                    }
+                    
+                    .main_hero_section h2 {
+                        position: absolute;
+                        font-size: 31px;
+                        top: 20%;
+                        margin-left: 20px;
+                    }
+                    
+                    .main_hero_section p {
+                        position: absolute;
+                        top: 30%;
+                        margin: 10px 0;
+                        margin-left: 5px;
+                        padding: 0 20px;
+                        line-height: 1.5;
+                        width: 327px;
+                        font-size: 16px;
+                        font-weight: 400;
+                    }
+                    
+                    .main_hero_section h1 {
+                        position: absolute;
+                        top: 70%;
+                        margin: 10px 0;
+                        font-size: 16px;
+                        left: 4%;
+                        font-weight: 400;
+                    }
+                    
+                    .main_hero_section a {
+                        color: #000;
+                    }
+                    
+                    .button {
+                        background-color: #000;
+                        position: absolute;
+                        top: 83%;
+                        color: #fff;
+                        left: 4%;
+                        font-size: 14px;
+                        font-weight: 300;
+                        padding: 12px 50px;
+                    }
+                    
+                    .button:hover {
+                        color: #000;
+                        background-color: #fff;
+                        border: 1px solid #000;
+                    }
+                    
+                    .main_hero_section1 {
+                        position: absolute;
+                        top: 6%;
+                        left: 70%;
+                        translate: -50% 0%;
+                        border: 1px solid transparent;
+                        height: 80%;
+                        background-color: #F0A901;
+                        width: 42%;
+                    }
+                    
+                    .logo {
+                        width: 92%;
+                        position: absolute;
+                        top: 23%;
+                        height: 67%;
+                        right: 46%;
+                    }
+                    
+                    .logo1 {
+                        width: 110%;
+                        position: absolute;
+                        top: 9%;
+                        height: 67%;
+                        right: 8%;
+                        object-fit: cover;
+                    }
+                    
+                    .coloum {
+                        text-align: center;
+                    }
+                    
+                    .coloum h2 {
+                        font-size: 2.5rem;
+                        font-weight: 500;
+                        margin-top: 30px;
+                    }
+                    
+                    .coloum p {
+                        font-size: 1.25rem;
+                        margin: 20px auto;
+                        width: 59%;
+                    }
+                    
+                    .main_card {
+                        border: 1px solid transparent;
+                        text-align: center;
+                        transition: ease 0.4s;
+                        background-color: #ddcfc6;
+                        margin-bottom: 40px;
+                    }
+                    
+                    .main_card h5 {
+                        font-weight: 400;
+                        font-size: 1.25rem;
+                        line-height: 1.2;
+                        margin: 20px 0 0;
+                        color: #000;
+                    }
+                    
+                    .main_card p {
+                        font-style: italic;
+                        font-size: 1rem;
+                        margin: 25px 0 0;
+                        padding: 0 20px;
+                        margin-bottom: 30px;
+                    }
+                    
+                    .circle {
+                        border: 1px solid transparent;
+                        text-align: center;
+                        height: 75px;
+                        width: 75px;
+                        background-color: #fff;
+                        border-radius: 50%;
+                        margin: auto;
+                        margin-top: 35px;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .brain {
+                        font-size: 35px;
+                        color: #000;
+                        margin: auto;
+                        margin: 17px auto;
+                    }
+                    
+                    .main_card:hover {
+                        background-color: #F0A901;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .main_card:hover .circle {
+                        background-color: #fff;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .another:hover {
+                        background-color: #fff;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .another:hover .circle {
+                        background-color: #F0A901;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .color_div {
+                        background-color: #ddcfc6;
+                    }
+                    
+                    .main_text {
+                        text-align: center;
+                    }
+                    
+                    .main_text h2 {
+                        font-size: 3rem;
+                        line-height: 1.1;
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        color: #fff;
+                        font-weight: 700;
+                        margin: 65px auto 0;
+                    }
+                    
+                    .main_text p {
+                        width: 58%;
+                        color: #fff;
+                        margin: 35px auto;
+                    }
+                    
+                    .main_card2 {
+                        border: 1px solid transparent;
+                        width: 100%;
+                    }
+                    
+                    .box {
+                        width: 100%;
+                        /* height: 7%; */
+                        object-fit: cover;
+                    }
+                    
+                    .center {
+                        text-align: center;
+                    }
+                    
+                    .color_text a {
+                        text-decoration: none;
+                    }
+                    
+                    .color_text h2 {
+                        font-size: 20px !important;
+                        font-size: -0.375rem !important;
+                        padding: 22px 82px;
+                        color: #000;
+                        font-weight: 400;
+                        color: #666666;
+                    }
+                    
+                    .color_text {
+                        width: 100%;
+                        height: 20%;
+                        background-color: #fff;
+                    }
+                    
+                    .color_div2 {
+                        background-color: #292d33;
+                    }
+                    
+                    .text_a {
+                        font-size: 20px;
+                        color: #f7f7f7;
+                        font-weight: 400;
+                        /* margin: 30px 0; */
+                        margin-bottom: 63px;
+                        margin-top: 20px;
+                    }
+                    
+                    .text_a a {
+                        color: #f7f7f7;
+                    }
+                    
+                    .main_imagees2 {
+                        border: 1px solid transparent;
+                        position: relative;
+                        height: 110vh;
+                    }
+                    
+                    .logo2 {
+                        width: 40%;
+                        height: 48%;
+                        object-fit: cover;
+                        position: absolute;
+                        top: 42px;
+                        left: 11%;
+                    }
+                    
+                    .logo3 {
+                        width: 47%;
+                        position: absolute;
+                        top: 55%;
+                        left: 4%;
+                        height: 40%;
+                        bottom: 20%;
+                    }
+                    
+                    .logo4 {
+                        object-fit: cover;
+                        width: 44%;
+                        position: absolute;
+                        height: 70%;
+                        top: 17%;
+                        translate: 115% 0%;
+                    }
+                    
+                    .logo5 {
+                        width: 20%;
+                        position: absolute;
+                        translate: 113% 104%;
+                        width: 30%;
+                        z-index: 6;
+                    }
+                    
+                    .border_div {
+                        border: 1px solid transparent;
+                        height: 90vh;
+                        width: 100%;
+                    }
+                    
+                    .log6 {
+                        width: 100%;
+                        height: 100vh;
+                        object-fit: cover;
+                    }
+                    
+                    .min_text {
+                        border: 1px solid transparent;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        height: 100vh;
+                        text-align: center;
+                        background-color: #F0A901;
+                    }
+                    
+                    .main_2 {
+                        text-align: start;
+                        display: flex;
+                        margin-left: 70px;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    .min_text h2 {
+                        font-size: 3rem;
+                        font-weight: 700;
+                        margin-top: 30px;
+                        color: #fff;
+                    }
+                    
+                    .min_text p {
+                        margin-top: 20px;
+                        margin: 20px 70px;
+                        color: #fff;
+                    }
+                    
+                    .min_text h3 {
+                        margin: 20px 70px;
+                        font-size: 18px;
+                        color: #fff;
+                    }
+                    
+                    .min_text a {
+                        color: #fff;
+                    }
+                    
+                    .min_text a:hover {
+                        color: #e6e6e6 !important;
+                    }
+                    
+                    .text_end {
+                        text-align: start;
+                    }
+                    
+                    .contact {
+                        border: 1px solid #fff;
+                        margin-left: 70px;
+                        margin-top: 20px;
+                        padding: 15px 50px;
+                        color: #fff;
+                        font-size: 15px;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .contact:hover {
+                        background-color: #fff;
+                        color: #000;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .text_2 {
+                        color: #f0aa00 !important;
+                        font-weight: 700;
+                        font-size: 3rem;
+                        line-height: 1.1;
+                        margin: 60px auto 0;
+                    }
+                    
+                    .center_2 {
+                        text-align: center;
+                    }
+                    
+                    .main_card3 {
+                        text-align: start;
+                    }
+                    
+                    .main_card3 h3 {
+                        font-weight: 400;
+                        font-size: 2rem;
+                        line-height: 1.2;
+                        margin-top: 20px;
+                        color: #F0A901;
+                        margin-left: 20px;
+                        margin-top: 55px;
+                    }
+                    
+                    .main_card3 p {
+                        line-height: 2;
+                        font-weight: 400;
+                        font-size: 20px;
+                        margin-top: 18px;
+                        color: #fff;
+                        padding: 0 20px;
+                    }
+                    
+                    .color_div3 {
+                        background-color: #000000;
+                        height: 90vh;
+                    }
+                    
+                    .main_card3 a {
+                        font-size: 20px;
+                        color: #fff;
+                        font-weight: 400;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .main_card3 a:hover {
+                        text-decoration-color: #F0A901;
+                        color: #F0A901;
+                        transition: ease 0.4s;
+                    }
+                    
+                    .logo7 {
+                        width: 100%;
+                        object-fit: cover;
+                        height: 100%;
+                    }
+                    
+                    .main_box {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        background-color: #ddcfc6;
+                    }
+                    
+                    .box2 {
+                        margin-top: 10px !important;
+                    }
+                    
+                    .box_1 {
+                        background-color: #fff;
+                        border: 1px solid transparent;
+                        width: 70%;
+                        margin-top: 50px;
+                    }
+                    
+                    .box_1 h2 {
+                        font-weight: 700;
+                        margin: 20px 20px;
+                        font-size: 1.5rem;
+                        line-height: 1.2;
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        font-weight: 700;
+                    }
+                    
+                    .box_1 p {
+                        font-size: 15px;
+                        padding: 5px 20px;
+                    }
+                    
+                    .box_1 h3 {
+                        font-size: 15px;
+                        margin: 20px 20px;
+                        font-weight: 400;
+                        padding-bottom: 30px;
+                    }
+                    
+                    .box_1 a:hover {
+                        text-decoration: none;
+                    }
+                    
+                    .box_1 a {
+                        color: #000;
+                    }
+                    
+                    .back_images2 {
+                        background-image: url(../images/-min.jpg);
+                        width: 100%;
+                        height: 100vh;
+                        background-repeat: no-repeat;
+                        object-fit: cover;
+                        background-size: cover;
+                        background-position: center;
+                        position: relative;
+                    }
+                    
+                    .box_3 {
+                        border: 1px solid transparent;
+                        position: absolute;
+                        width: 45%;
+                        top: 18%;
+                        height: 67%;
+                        background-color: #fff;
+                        left: 6%;
+                    }
+                    
+                    .box_3 h2 {
+                        font-size: 50px;
+                        font-weight: 700;
+                        margin-left: 20px;
+                        margin-top: 60px;
+                    }
+                    
+                    .box_3 p {
+                        font-size: 1.5rem;
+                        line-height: 1.2;
+                        margin: 22px 22px;
+                        font-weight: 500;
+                    }
+                    
+                    .box_3 h3 {
+                        font-size: 16px;
+                        margin: 22px 22px;
+                        font-weight: 500;
+                        color: #000;
+                    }
+                    
+                    .box_3 a {
+                        color: #000;
+                    }
+                    
+                    .contact1 {
+                        background-color: #000;
+                        color: #fff;
+                        padding: 10px 40px;
+                        margin-left: 20px;
+                    }
+                    
+                    .main_box3 {
+                        border: 1px solid transparent;
+                        width: 100%;
+                        text-align: center;
+                        background-color: #fff;
+                        height: 100%;
+                    }
+                    
+                    .main_box3 h2 {
+                        text-transform: uppercase;
+                        font-weight: 700;
+                        font-size: 3rem;
+                        margin-top: 100px;
+                    }
+                    
+                    .main_box3 p {
+                        font-size: 1.25rem;
+                        width: auto;
+                        margin: 0px 0 0;
+                        padding: 20px 60px;
+                        position: relative;
+                    }
+                    
+                    .main_box3 p::after {
+                        position: absolute;
+                        content: "";
+                        border: 2px solid #ccb7a9;
+                        background: #ccb7a9;
+                        width: 85%;
+                        top: 100%;
+                        left: 9%;
+                    }
+                    
+                    .main_box3 h3 {
+                        margin-top: 20px;
+                        font-size: 25px;
+                        font-weight: 700;
+                        margin-bottom: 20px;
+                    }
+                    
+                    .latter {
+                        text-decoration: none;
+                        color: #fff;
+                    }
+                    
+                    .latter:hover {
+                        color: #fff !important;
+                    }
+                    
+                    .main_box3 h4 {
+                        font-size: 18px;
+                        margin-top: 50px;
+                    }
+                    
+                    .action {
+                        font-size: 18px !important;
+                    }
+                    
+                    .color_div4 {
+                        background-color: #ddcfc6;
+                        height: 97.5vh;
+                    }
+                    
+                    .main_box3 a {
+                        color: #000;
+                        font-size: 25px;
+                        font-weight: 400;
+                    }
+                    
+                    .log9 {
+                        width: 100%;
+                        object-fit: cover;
+                        height: 100%;
+                    }
+                    
+                    @media (min-width: 360px) and (max-width: 740px) {
+                        .min_text {
+                            height: 85vh !important;
+                        }
+                        .box_3 p {
+                            font-size: 1.1rem;
+                        }
+                        .box_3 h2 {
+                            font-size: 23px;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                    }
+                    
+                    @media (min-width: 375px) and (max-width: 932px) {
+                        .section_one {
+                            width: 100%;
+                            height: 40vh;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                        .min_text {
+                            height: 85vh;
+                        }
+                        .color_text h2 {
+                            font-size: 26px !important;
+                        }
+                        .main_hero_section h2 {
+                            font-size: 10px;
+                            top: 20%;
+                            margin-left: 10px;
+                            font-weight: 500;
+                        }
+                        .main_hero_section p {
+                            top: 30%;
+                            margin: 10px 0;
+                            padding: 0px 10px;
+                            font-size: 9px;
+                            width: 145px;
+                            font-weight: 400;
+                        }
+                        .main_hero_section h1 {
+                            position: absolute;
+                            top: 67%;
+                            font-size: 9px;
+                            left: 4%;
+                            font-weight: 400;
+                        }
+                        .button {
+                            background-color: #000;
+                            position: absolute;
+                            top: 81% !important;
+                            color: #fff;
+                            left: 50%;
+                            font-size: 9px;
+                            font-weight: 300;
+                            padding: 2px 10px;
+                            margin-top: 5px;
+                        }
+                        .main_imagees2 {
+                            height: 35vh;
+                        }
+                        .log6 {
+                            height: 40vh;
+                        }
+                        .min_text h2 {
+                            font-size: 1.6rem;
+                        }
+                        .back_images2 {
+                            height: 55vh;
+                        }
+                        .box_3 h2 {
+                            font-size: 18px;
+                            margin-top: 10px;
+                        }
+                        .box_3 p {
+                            font-size: 0.9rem;
+                            margin: 20px 20px;
+                        }
+                        .box_3 h3 {
+                            font-size: 15px;
+                            margin: 15px 20px
+                        }
+                        .contact1 {
+                            background-color: #000 !important;
+                            color: #fff;
+                            font-size: 14px;
+                            padding: 5px 30px;
+                            margin-left: 5px;
+                        }
+                        .main_box3 a {
+                            color: #000;
+                            font-size: 20px;
+                            font-weight: 400;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                        }
+                    }
+                    
+                    @media (min-width:414px) and (max-width:896px) {
+                        .min_text {
+                            height: 60vh !important;
+                        }
+                        .main_imagees2 {
+                            height: 29vh;
+                        }
+                        .back_images2 {
+                            height: 36vh;
+                        }
+                        .box_3 {
+                            width: 47%;
+                            height: 54%;
+                        }
+                        .contact {
+                            margin-left: 100px;
+                        }
+                        .main_box3 a {
+                            font-size: 21px;
+                        }
+                        .color_text h2 {
+                            font-size: 26px !important;
+                        }
+                        .section_one {
+                            height: 38vh !important;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                    }
+                    
+                    @media (min-width:390px) and (max-width:844px) {
+                        .main_imagees2 {
+                            height: 29vh;
+                        }
+                        .min_text {
+                            height: 67vh;
+                        }
+                        .back_images2 {
+                            height: 44vh;
+                        }
+                        .color_text h2 {
+                            font-size: 26px !important;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                    }
+                    
+                    @media (min-width:430px) and (max-width:932px) {
+                        .section_one {
+                            width: 100%;
+                            height: 39vh;
+                        }
+                        .main_card p {
+                            padding: 0px 66px;
+                        }
+                        .min_text h2 {
+                            font-size: 1.9rem;
+                        }
+                        .back_images2 {
+                            height: 37vh;
+                        }
+                        .color_text h2 {
+                            font-size: 26px !important;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                            padding: 20px 104px;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                    }
+                    
+                    @media (min-width:375px) and (max-width:667px) {
+                        .section_one {
+                            width: 100%;
+                            height: 40vh;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                        }
+                        .main_hero_section h2 {
+                            font-size: 10px;
+                            top: 20%;
+                            margin-left: 10px;
+                            font-weight: 500;
+                        }
+                        .main_hero_section p {
+                            top: 26%;
+                            margin: 10px 0;
+                            padding: 0px 10px;
+                            font-size: 6.3px !important;
+                            width: 113px;
+                            font-weight: 400;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                        .main_hero_section h1 {
+                            position: absolute;
+                            top: 67%;
+                            font-size: 7px;
+                            left: 4%;
+                            font-weight: 400;
+                        }
+                        .contact {
+                            margin-left: 92px;
+                        }
+                        .button {
+                            background-color: #000;
+                            position: absolute;
+                            top: 83%;
+                            color: #fff;
+                            left: 4%;
+                            font-size: 7px;
+                            font-weight: 300;
+                            padding: 2px 05px;
+                            margin-top: 7px;
+                        }
+                        .coloum p {
+                            font-size: 1.25rem;
+                            margin: 20px auto;
+                            width: 67%;
+                        }
+                        .main_card p {
+                            font-style: italic;
+                            font-size: 1rem;
+                            margin: 25px 0 0;
+                            padding: 0 40px;
+                            margin-bottom: 30px;
+                        }
+                        .contact {
+                            margin-left: 90px;
+                        }
+                        .main_card3 {
+                            text-align: center;
+                        }
+                        .box_3 {
+                            width: 51% !important;
+                        }
+                        .contact1 {
+                            padding: 2px 10px !important;
+                            margin-left: 38px !important;
+                            margin-top: 3px !important;
+                        }
+                    }
+                    
+                    @media (min-width:412px) and (max-width:915px) {
+                        .section_one {
+                            width: 100%;
+                            height: 38vh;
+                        }
+                        .back_images2 {
+                            height: 37vh;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                        }
+                        .color_div3 {
+                            background-color: #000000;
+                            height: 133vh;
+                        }
+                    }
+                    
+                    @media (min-width:360px) and (max-width:740px) {
+                        .section_one {
+                            width: 100%;
+                            height: 40vh;
+                        }
+                        .main_hero_section h2 {
+                            font-size: 9px;
+                            top: 20%;
+                            margin-left: 10px;
+                            font-weight: 500;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                        .main_imagees2 {
+                            height: 30vh;
+                        }
+                        .log6 {
+                            height: 35vh;
+                        }
+                        .min_text h2 {
+                            font-size: 1.7rem;
+                        }
+                        .min_text {
+                            height: 79vh;
+                        }
+                        .back_images2 {
+                            height: 45vh;
+                        }
+                        .box_3 h2 {
+                            font-size: 18px;
+                            margin-left: 16px;
+                            margin-top: 13px;
+                        }
+                        .box_3 p {
+                            font-size: 1rem;
+                            line-height: 1.2;
+                            margin: 10px 18px;
+                        }
+                        .box_3 {
+                            width: 47%;
+                        }
+                        .main_box3 a {
+                            color: #000;
+                            font-size: 18px;
+                        }
+                        .box_3 h3 {
+                            font-size: 16px;
+                            margin: 10px 19px;
+                        }
+                        .contact1 {
+                            padding: 2px 10px;
+                            margin-left: 20px;
+                        }
+                        .main_hero_section p {
+                            top: 26%;
+                            margin: 10px 0;
+                            padding: 0px 10px;
+                            font-size: 7px;
+                            width: 110px;
+                            font-weight: 400;
+                        }
+                        .main_hero_section h1 {
+                            position: absolute;
+                            top: 67%;
+                            font-size: 9px;
+                            left: 4%;
+                            font-weight: 400;
+                        }
+                        .button {
+                            background-color: #000;
+                            position: absolute;
+                            top: 82%;
+                            color: #fff;
+                            left: 55%;
+                            font-size: 8px;
+                            font-weight: 300;
+                            padding: 2px 09px;
+                            margin-top: 5px;
+                        }
+                        .logo {
+                            width: 92%;
+                            height: 67%;
+                            right: 40%;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                        }
+                        .color_div3 {
+                            background-color: #000000;
+                            height: 133vh;
+                        }
+                    }
+                    
+                    @media (min-width:344px) and (max-width:882px) {
+                        .section_one {
+                            height: 43vh !important;
+                        }
+                        .main_hero_section h2 {
+                            font-size: 9px;
+                            top: 20%;
+                            margin-left: 10px;
+                            font-weight: 500;
+                        }
+                        .start h3 {
+                            margin-left: 32px;
+                        }
+                        .start h4 {
+                            font-size: 18px;
+                            margin-top: 50px;
+                            margin-left: 103px;
+                        }
+                        .main_card p {
+                            padding: 0px 66px !important;
+                        }
+                        .contact {
+                            margin-left: 100px;
+                        }
+                        .main_hero_section p {
+                            top: 26%;
+                            margin: 10px 0;
+                            padding: 0px 10px;
+                            font-size: 7px !important;
+                            width: 120px;
+                            font-weight: 400;
+                        }
+                        .main_hero_section h1 {
+                            position: absolute;
+                            top: 67%;
+                            font-size: 9px;
+                            left: 4%;
+                            font-weight: 400;
+                        }
+                        .button {
+                            background-color: #000;
+                            position: absolute;
+                            top: 83%;
+                            color: #fff;
+                            left: 4%;
+                            font-size: 8px;
+                            font-weight: 300;
+                            padding: 4px 05px;
+                            margin-top: 5px;
+                        }
+                        .main_card p {
+                            padding: 0 58px;
+                        }
+                        .logo {
+                            width: 92%;
+                            height: 67%;
+                            right: 40%;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                        }
+                        .color_div3 {
+                            background-color: #000000;
+                            height: 182vh;
+                        }
+                    }
+                    
+                    @media (min-width:390px) and (max-width:884px) {
+                        .color_div3 {
+                            background-color: #000000;
+                            height: 146vh;
+                        }
+                    }
+                    
+                    @media (min-width:768px) and (max-width:1024px) {
+                        .main_hero_section p {
+                            top: 26%;
+                            font-size: 11px !important;
+                            width: 225px;
+                        }
+                        .main_hero_section h2 {
+                            font-size: 20px;
+                            top: 16%;
+                        }
+                        .main_hero_section h1 {
+                            font-size: 13px;
+                            top: 66%;
+                            left: 3%;
+                        }
+                        .button {
+                            top: 81%;
+                            left: 3%;
+                            font-size: 12px;
+                            padding: 5px 11px;
+                            margin-top: 0px;
+                        }
+                        .color_text h2 {
+                            padding: 20px 75px
+                        }
+                        .main_imagees2 {
+                            height: 42vh;
+                        }
+                        .min_text {
+                            height: 46vh;
+                        }
+                        .min_text h2 {
+                            font-size: 2.9rem;
+                        }
+                        .box_1 p {
+                            font-size: 17px;
+                        }
+                        .main_box3 p {
+                            font-size: 2rem;
+                        }
+                        .main_box3 a {
+                            font-size: 29px;
+                        }
+                        .log9 {
+                            height: 69%;
+                        }
+                        .color_div4 {
+                            overflow: hidden;
+                        }
+                        .back_images2 {
+                            height: 52vh;
+                        }
+                        .box_3 h2 {
+                            font-size: 30px;
+                            margin-top: 22px;
+                        }
+                        .box_3 p {
+                            font-size: 1.9rem;
+                        }
+                        .box_3 h3 {
+                            font-size: 23px;
+                        }
+                        .contact1 {
+                            background-color: #000 !important;
+                            color: #fff;
+                            font-size: 20px;
+                            padding: 14px 40px;
+                            margin-left: 17px;
+                        }
+                        .color_text h2 {
+                            font-size: 22px !important;
+                        }
+                        .color_div3 {
+                            background-color: #000000;
+                            height: 87vh;
+                        }
+                        .box_3 {
+                            width: 47%;
+                            height: 67%;
+                        }
+                    }
+                    
+                    @media (min-width:820px) and (max-width:1180px) {
+                        .box_3 {
+                            width: 47%;
+                            height: 54%;
+                        }
+                    }
